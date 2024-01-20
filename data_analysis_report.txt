@@ -1,0 +1,96 @@
+                                             filename extension  \
+0                10 Trades Training Regt Re Workshops      .pdf   
+1    An Introduction to Industrial Psychology K.Smith      .pdf   
+2                                    Army Form O 1771      .pdf   
+3                          Bin Card, Army Form G.392B      .pdf   
+4                        Bricklayers Tool, 10. 10. 63      .pdf   
+..                                                ...       ...   
+182                                Welders Tools List      .pdf   
+183                  Why People Buy Olusegun Obasanjo      .pdf   
+184                  Worshop Indent, Army Form G.1045      .pdf   
+185                               Worshop Repair Card      .pdf   
+186                     _B_ Vehicle Inspection Report      .pdf   
+
+                                              filepath  num_pages     size  \
+0    data\pdfs\10 Trades Training Regt Re Workshops...          2   976240   
+1    data\pdfs\An Introduction to Industrial Psycho...          1   154845   
+2                       data\pdfs\Army Form O 1771.pdf          2   722967   
+3             data\pdfs\Bin Card, Army Form G.392B.pdf          2   604759   
+4           data\pdfs\Bricklayers Tool, 10. 10. 63.pdf          1   185764   
+..                                                 ...        ...      ...   
+182                   data\pdfs\Welders Tools List.pdf          2   455810   
+183     data\pdfs\Why People Buy Olusegun Obasanjo.pdf          4  1605552   
+184     data\pdfs\Worshop Indent, Army Form G.1045.pdf          1   267475   
+185                  data\pdfs\Worshop Repair Card.pdf          2   426352   
+186        data\pdfs\_B_ Vehicle Inspection Report.pdf          1   389506   
+
+    text_content  num_words  num_images  
+0                         0           2  
+1                         0           1  
+2                         0           2  
+3                         0           2  
+4                         0           1  
+..           ...        ...         ...  
+182                       0           2  
+183                       0           4  
+184                       0           1  
+185                       0           2  
+186                       0           1  
+
+[187 rows x 8 columns] Data Analysis Report
+
+Data Columns Info:
+None
+
+Summary Statistics:
+        num_pages          size  num_words  num_images
+count  187.000000  1.870000e+02      187.0  187.000000
+mean     2.074866  6.111730e+05        0.0    2.074866
+std      2.734636  7.200026e+05        0.0    2.734636
+min      1.000000  6.206500e+04        0.0    1.000000
+25%      1.000000  3.079305e+05        0.0    1.000000
+50%      2.000000  4.061810e+05        0.0    2.000000
+75%      2.000000  7.003350e+05        0.0    2.000000
+max     27.000000  6.308025e+06        0.0   27.000000
+
+Correlation Matrix:
+<bound method DataFrame.corr of                                              filename extension  \
+0                10 Trades Training Regt Re Workshops      .pdf   
+1    An Introduction to Industrial Psychology K.Smith      .pdf   
+2                                    Army Form O 1771      .pdf   
+3                          Bin Card, Army Form G.392B      .pdf   
+4                        Bricklayers Tool, 10. 10. 63      .pdf   
+..                                                ...       ...   
+182                                Welders Tools List      .pdf   
+183                  Why People Buy Olusegun Obasanjo      .pdf   
+184                  Worshop Indent, Army Form G.1045      .pdf   
+185                               Worshop Repair Card      .pdf   
+186                     _B_ Vehicle Inspection Report      .pdf   
+
+                                              filepath  num_pages     size  \
+0    data\pdfs\10 Trades Training Regt Re Workshops...          2   976240   
+1    data\pdfs\An Introduction to Industrial Psycho...          1   154845   
+2                       data\pdfs\Army Form O 1771.pdf          2   722967   
+3             data\pdfs\Bin Card, Army Form G.392B.pdf          2   604759   
+4           data\pdfs\Bricklayers Tool, 10. 10. 63.pdf          1   185764   
+..                                                 ...        ...      ...   
+182                   data\pdfs\Welders Tools List.pdf          2   455810   
+183     data\pdfs\Why People Buy Olusegun Obasanjo.pdf          4  1605552   
+184     data\pdfs\Worshop Indent, Army Form G.1045.pdf          1   267475   
+185                  data\pdfs\Worshop Repair Card.pdf          2   426352   
+186        data\pdfs\_B_ Vehicle Inspection Report.pdf          1   389506   
+
+    text_content  num_words  num_images  
+0                         0           2  
+1                         0           1  
+2                         0           2  
+3                         0           2  
+4                         0           1  
+..           ...        ...         ...  
+182                       0           2  
+183                       0           4  
+184                       0           1  
+185                       0           2  
+186                       0           1  
+
+[187 rows x 8 columns]>
